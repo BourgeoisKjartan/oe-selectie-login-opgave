@@ -1,5 +1,6 @@
 ## Selectie
 Schrijf de nodige code om een logon-flow te laten uitvoeren.
+![Image of login-process](/Login.png)
 
 - Lees uit de textboxen de username en paswoord uit.
 - Ga na of de username leeg is. Zo niet, geef de boodschap 'Vul je username in'.
